@@ -29,7 +29,7 @@ INIT_LR = 1e-4
 EPOCHS = 10
 BS = 32
 #C:\Users\ABHIJITH MALLYA\Desktop\Face-Mask-Detection-master\dataset
-DIRECTORY = r"C:\Users\ABHIJITH MALLYA\Desktop\Face-Mask-Detection-master\dataset"
+DIRECTORY = r"E:\Project\Face-Mask-Detection\dataset"
 CATEGORIES = ["with_mask", "without_mask"]
 
 # grab the list of images in our dataset directory, then initialize
